@@ -1,0 +1,150 @@
+body{
+    margin:auto
+}
+a{
+    text-decoration: none;
+}
+header{
+    height:81px;
+    width:100%;
+    /*border:2px black solid;*/
+    background-color: #d2d740;
+}
+#icon{
+    float:left;
+    font-size:30px;
+    margin-left:1%;
+    margin-top:1%;
+    font-weight:bold;
+    font-family:Roboto;
+     
+}
+#social{
+    float:right;
+    margin-right:1%;
+    margin-top:1%;
+
+}
+.slogo{
+height:45px;
+width:45px;
+}
+#logo{
+    height:80px;
+    width:80px;
+    border-radius: 50%;
+    margin:auto;
+    background-color:red;
+}
+#logo>span{
+    font-size:18px;
+    position:absolute;
+    margin-left:0.5%;
+    margin-top:2%;
+
+}
+
+#wallpaper{
+    height:350px;
+    width:100%;
+    /*border:2px red solid;*/
+    background-image: url(https://i.ibb.co/MVGVtQZ/Foodie-Wallpaper.jpg);
+    background-repeat:no-repeat;
+    /*background-size:cover;*/
+    background-size:100% 350px;
+}
+
+#content{
+    height:200px;
+    width:100%;
+    /*border:2px green solid;  */
+}
+#heading{
+    font-size:25px;
+    font-weight: bold;
+    position:relative;
+    margin-left:19%;
+    margin-top:2%;
+    color:rgb(202, 24, 60);
+}
+
+.dropdown{
+    height:60px;
+    width:100%;
+    position:absolute;
+    margin-left:10%;
+    margin-top:1%;
+    
+
+}
+
+select{
+    height:60px;
+    width:30%;
+    font-size:15px;
+    text-align: center;
+}
+.restSelect{
+    width:40%
+}
+#main{
+    height:80px;
+    width:100%;
+    margin-top:1%;
+    margin-left:3%;
+}
+.otherContainer1{
+
+    height:200px;
+    width:20%;
+    border: 2px groove black;
+    float: left;
+    margin-left: 7%;
+    margin-top: -6%;
+    background-image: url(images/otherc1.JPG);
+    
+
+}
+
+.otherContainer2{
+
+    height:200px;
+    width:20%;
+    border: 2px groove black;
+    float: left;
+    margin-left: 7%;
+    margin-top: -6%;
+    background-image: url(images/otherc2.JPG);
+    
+
+}
+
+.otherContainer3{
+
+    height:200px;
+    width:20%;
+    border: 2px groove black;
+    float: left;
+    margin-left: 7%;
+    margin-top: -6%;
+    background-image: url(images/otherc3.JPG);
+    
+
+}
+
+footer{
+    height:100px;
+    width:100%;
+    font-size:18px;
+    font-family:'Courier New';
+    /*border:2px groove violet;*/
+    margin-top:3%;
+    
+}
+footer>p{
+    font-weight:bold;
+}
+
+
+
+
